@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "11462811324",
+    "project_id": "real-instagram-dec5d",
+    "storage_bucket": "real-instagram-dec5d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:11462811324:android:bdc684eed1628dbc24bab9",
+        "android_client_info": {
+          "package_name": "com.example.realinstagram"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "11462811324-id7jgqq99dulol692onq9jp0u32b4lm0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD14qTVDEPLA7mm23o-xSlSqrRJBMwhjsE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "11462811324-id7jgqq99dulol692onq9jp0u32b4lm0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

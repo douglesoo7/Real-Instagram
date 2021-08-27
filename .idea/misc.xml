@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable-anydpi-v24/ic_like.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable-anydpi-v24/ic_upload_image.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/button_background.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/edit_text_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/editext_background.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_add.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_add_item.xml" value="0.22407407407407406" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_heart.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_inbox.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_like.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_liked.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_my_pictures.xml" value="0.2703125" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_options.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_save.xml" value="0.14947916666666666" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/drawable/ic_save_black.xml" value="0.14479166666666668" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_comment.xml" value="0.13697916666666668" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_edit_profile.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_followers.xml" value="0.13333333333333333" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_home.xml" value="0.1" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_login.xml" value="0.1937984496124031" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_main.xml" value="0.2" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_options.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_post.xml" value="0.128" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_post_image.xml" value="0.176" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_register.xml" value="0.2" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/activity_spash_screen.xml" value="0.13020833333333334" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/comment_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/fragment_activity.xml" value="0.25052083333333336" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/fragment_home.xml" value="0.152" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/fragment_post_detail.xml" value="0.13229166666666667" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/fragment_profile.xml" value="0.2" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/fragment_search.xml" value="0.16753926701570682" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/photo_item.xml" value="0.12708333333333333" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/post_item.xml" value="0.152" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/layout/user_item.xml" value="0.264" />
+        <entry key="..\:/Users/Dougles/AndroidStudioProjects/RealInstagram/app/src/main/res/menu/bottom_menu.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
